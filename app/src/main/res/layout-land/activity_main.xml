@@ -31,6 +31,8 @@
         android:layout_centerVertical="true"
         android:background="@color/transparent"
         android:text="@string/boton1"
-        android:textColor="@color/Wtext" />
+        android:textColor="@color/Wtext"
+        android:textSize="30sp" 
+        />
 
 </RelativeLayout>
